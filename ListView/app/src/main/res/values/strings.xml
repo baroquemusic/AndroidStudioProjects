@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ListView</string>
+
+    <string-array name="cities">
+
+        <item>Budapest</item>
+        <item>Prague</item>
+        <item>Basel</item>
+        <item>Wien</item>
+        <item>Moscow</item>
+        <item>Sofia</item>
+        <item>Kloten</item>
+        <item>St Petersburg</item>
+        <item>Reykjavik</item>
+        <item>New York</item>
+        <item>Los Angeles</item>
+        <item>San Francisco</item>
+        <item>Tel Aviv</item>
+        <item>Jerusalem</item>
+
+    </string-array>
+
+
+</resources>

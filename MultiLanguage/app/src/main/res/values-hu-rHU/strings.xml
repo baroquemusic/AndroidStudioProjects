@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultiLanguage</string>
+    <string name="hello">Szia Világ</string>
+    <string name="show_toast">mutass egy piritós üzenetet</string>
+    <string name="toast">Piritós üzenet Neked!</string>
+</resources>
